@@ -1,5 +1,4 @@
 console.log("TESTTT")
-const localIP = '192.168.1.5';
 const express = require('express');
 const path = require('path');
 const port = 4000;
